@@ -1,0 +1,7 @@
+CommonMethods\ReuseableCommonMethods.class
+PageObjects\LandingPage.class
+PageObjects\FinalOrderConfirmationPage.class
+PageObjects\OrderPage.class
+PageObjects\PlaceOrderPage.class
+PageObjects\ProductCataloguePage.class
+PageObjects\CheckOutPage.class
